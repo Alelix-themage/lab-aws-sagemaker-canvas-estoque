@@ -36,11 +36,19 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 -   Verifique as principais características que influenciam as previsões.
 -   Faça ajustes no modelo se necessário e re-treine até obter um desempenho satisfatório.
 
+-   ![image](https://github.com/Alelix-themage/lab-aws-sagemaker-canvas-estoque/assets/72809824/a866e461-106f-44bb-bbf0-4abc6268f4b0)
+Model Status estão dentro dos conformes, a maioria abaixo de 0.
+
 ### 4. Prever
 
 -   Use o modelo treinado para fazer previsões de estoque.
 -   Exporte os resultados e analise as previsões geradas.
 -   Documente suas conclusões e qualquer insight obtido a partir das previsões.
+-   ![image](https://github.com/Alelix-themage/lab-aws-sagemaker-canvas-estoque/assets/72809824/c50c6a08-e6a4-427f-a022-2d85dbff74c0)
+
+Análise de itens feitas com precisão.
+A partir desse modelo é possível fazer uma análise de todos os produtos que foram mais vendidos, os que foram menos vendidos e os que se mantiveram. Com uma análise dessas é possível saber em qual produto investir mais.
+
 
 ## 🤔 Dúvidas?
 
